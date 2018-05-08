@@ -7,3 +7,5 @@ mircrobit
 
 arduion mega 2560 microcontroller 
 
+These microcontrollers calculate a users input then output certain information to other devices or machines to perform the desired result.
+
