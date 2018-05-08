@@ -15,3 +15,9 @@ These microcontrollers calculate a users input then output certain information t
 
 
 ![ ligth sensor ](https://www.smashingrobotics.com/wp-content/uploads/2012/08/ldksuh-ffuudsfd89s-fu9sdf002_opt.jpg)
+
+
+lego ligth sensor
+
+
+![ motion sensor ](https://www.arrowelectricals.co.uk/images/products/zoom/1383232108-00536600.jpg)
