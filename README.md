@@ -12,3 +12,6 @@ These microcontrollers calculate a users input then output certain information t
 
 
 # Sensors 
+
+
+![ ligth sensor ](https://www.smashingrobotics.com/wp-content/uploads/2012/08/ldksuh-ffuudsfd89s-fu9sdf002_opt.jpg)
