@@ -27,6 +27,9 @@ motion sensor
 a sensors purpose is to detect events or changes in its environment and send the information to other electronics,
 
 
-#Actuators
+# Actuators
 
 ![ actuator ](https://www.cpi-nj.com/wp-content/uploads/2015/01/linear-actuator_650x387.jpg)
+
+diagram of a actuator 
+
