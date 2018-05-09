@@ -52,6 +52,7 @@ chrome is a software
 ![ windows ](http://informatika.fazekas.hu/wp-content/uploads/2014/12/MsWin7.png)
 
 
+windows is a software
 
 
-software is a 
+software is a part of a computer system that consists of data and computer instructions.
