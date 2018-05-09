@@ -45,7 +45,7 @@ An actuator is a component of a machine that is responsible for moving and contr
 # Software 
 
 
-![ chrome ](https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=http%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fchrome-logo.jpg&w=900&c=0&s=0)
+![ chrome ](https://1.bp.blogspot.com/-bXnvbfdwNF4/VsgW0ImZAFI/AAAAAAAAGkc/FrfYneE_yv4/s1600/Google%2BChrome.png)
 
 
 
