@@ -33,3 +33,7 @@ a sensors purpose is to detect events or changes in its environment and send the
 
 diagram of a actuator 
 
+
+![ actuator ](http://www.motioncontrolguide.com/_images/tech-tips/mechanicalactuator.jpg)
+
+the mechanics of a actuator 
