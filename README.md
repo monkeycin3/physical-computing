@@ -28,3 +28,5 @@ a sensors purpose is to detect events or changes in its environment and send the
 
 
 #Actuators
+
+![ actuator ](https://www.cpi-nj.com/wp-content/uploads/2015/01/linear-actuator_650x387.jpg)
