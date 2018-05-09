@@ -47,8 +47,11 @@ An actuator is a component of a machine that is responsible for moving and contr
 
 ![ chrome ](https://1.bp.blogspot.com/-bXnvbfdwNF4/VsgW0ImZAFI/AAAAAAAAGkc/FrfYneE_yv4/s1600/Google%2BChrome.png)
 
+chrome is a software 
+
+![ windows ](http://informatika.fazekas.hu/wp-content/uploads/2014/12/MsWin7.png)
 
 
 
 
-softwar is a 
+software is a 
