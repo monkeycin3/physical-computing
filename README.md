@@ -37,3 +37,18 @@ diagram of a actuator
 ![ actuator ](http://www.motioncontrolguide.com/_images/tech-tips/mechanicalactuator.jpg)
 
 the mechanics of a actuator 
+
+
+An actuator is a component of a machine that is responsible for moving and controlling a mechanism or system for example, closing and opening a valve.
+
+
+# Software 
+
+
+![ chrome ](https://i.nextmedia.com.au/Utils/ImageResizer.ashx?n=http%3a%2f%2fi.nextmedia.com.au%2fFeatures%2fchrome-logo.jpg&w=900&c=0&s=0)
+
+
+
+
+
+softwar is a 
