@@ -17,7 +17,12 @@ These microcontrollers calculate a users input then output certain information t
 ![ ligth sensor ](https://www.smashingrobotics.com/wp-content/uploads/2012/08/ldksuh-ffuudsfd89s-fu9sdf002_opt.jpg)
 
 
-lego ligth sensor
+lego light sensor
 
 
 ![ motion sensor ](https://s9.postimg.cc/6mbt230yn/Screen_Shot_2018-05-09_at_9.55.17_AM.png)
+
+motion sensor 
+
+a sensors purpose is to detect events or changes in its environment and send the information to other electronics,
+
