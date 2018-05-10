@@ -56,3 +56,9 @@ windows is a software
 
 
 software is a part of a computer system that consists of data and computer instructions.
+
+
+
+# Analog & Digital Signals
+
+an analong clock is run by gears and time is shown by handles that spin to show the 12 hours of a day compared to a digital clock that showeds time with  a numeric display that indicates the exact time eleconti 
